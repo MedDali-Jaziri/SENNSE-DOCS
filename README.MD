@@ -22,8 +22,8 @@ The objective of this tutorial is to obtain data from a sensor within a specific
 2. **Select Your Device**:
    - Locate and select the device you wish to query.
    
-3. **Copy Device ID and Access Token**:
-   - Copy and securely save the **Device ID** and **Access token** for later use.
+3. **Copy Device ID**:
+   - Copy and securely save the **Device ID** for later use.
 
 > **Note**: This tutorial supports Postman as the API testing tool, but any alternative tool can be used. A comprehensive list of ThingsBoard APIs is available [here](https://demo.thingsboard.io/swagger-ui/index.html).
 
