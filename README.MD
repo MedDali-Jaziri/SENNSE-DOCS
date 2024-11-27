@@ -27,7 +27,7 @@ The objective of this tutorial is to obtain data from a sensor within a specific
 
 > **Note**: This tutorial supports Postman as the API testing tool, but any alternative tool can be used. A comprehensive list of ThingsBoard APIs is available [here](https://demo.thingsboard.io/swagger-ui/index.html).
 
- ![](images/loginRequest.png)
+ ![](images/AccessToken_DeviceID.png)
 
 ### Step 2: Authenticate with ThingsBoard API
 
@@ -43,7 +43,7 @@ The objective of this tutorial is to obtain data from a sensor within a specific
 3. **Save the Access Token**:
    - Upon successful authentication, copy and save the access token from the response.
 
- ![](images/AccessToken_DeviceID.png)
+ ![](images/loginRequest.png)
 
 ### Step 3: Retrieve Time-Series Data Keys
 
